@@ -1,6 +1,6 @@
-# 📱 React Native News App  
+# 📱 Small Wind Turbine App
 
-A mobile application designed to keep users informed with the latest news from various categories. Built with **React Native**, this app ensures a user-friendly interface and seamless experience across platforms.  
+Small Wind Turbine is a mobile app designed to help students manage and track their academic activities, including assignments, schedules, and personal events. Built with **React Native**, the app provides a seamless experience across Android and iOS platforms.
 
 ## 🚀 **Features**  
 - **Category-wise News**: Explore news from categories like Technology, Sports, Health, and more.  
